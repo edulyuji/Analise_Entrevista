@@ -5,16 +5,16 @@ Este repositório contém uma análise de dados realizada com a ferramenta PySpa
 ## Questões Analisadas:
 
 ### A) Qual é a média e desvio padrão de idade dos 600 entrevistados?
-- Utilizamos a ferramenta PySpark para calcular a média e o desvio padrão de idade dos entrevistados.
+- Foi utilizada a ferramenta PySpark para calcular a média e o desvio padrão de idade dos entrevistados.
 
 ### B) Quantos % de quem possui filho(s) são do sexo Feminino?
 - Foi realizada uma análise para determinar a porcentagem de pessoas do sexo feminino entre aquelas que possuem filhos.
 
 ### C) Quantos % dos Entrevistados da região SUL possuem renda mensal até R$ 2.999?
-- Analisamos a porcentagem de entrevistados da região Sul que têm renda mensal até R$ 2.999.
+- Foi analisado a porcentagem de entrevistados da região Sul que têm renda mensal até R$ 2.999.
 
 ### D) Quantos % dos 600 entrevistados usam o Pix para cada uma das finalidades pesquisadas?
-- Calculamos a porcentagem de entrevistados que usam o Pix para cada finalidade pesquisada.
+- Foi Calculado a porcentagem de entrevistados que usam o Pix para cada finalidade pesquisada.
 
 ## Como Utilizar este Repositório:
 
